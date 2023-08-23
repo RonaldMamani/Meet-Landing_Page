@@ -1,0 +1,30 @@
+.principal{
+    font-size: 64px;
+    color: #28283d;
+}
+
+.secundary{
+    font-size: 40px;
+    color: #28283d;
+}
+
+.secundaryWhite{
+    font-size: 40px;
+    color: #fafafa;
+}
+
+.commonWhite{
+    font-size: 18px;
+    color: #fafafa;
+}
+
+.textSection{
+    color: #8fe3f9;
+    font-size: 16px;
+}
+
+.common{
+    font-size: 18px;
+    color: #87879d;
+    margin: 0 auto;
+}

@@ -1,0 +1,28 @@
+button{
+    padding: 1rem 2rem;
+    border-radius: 25px;
+    color: #fafafa;
+    border: 0;
+}
+
+.btnBlue:hover{
+    background-color: #8fe3f9;
+}
+
+.btnBlue{
+    background-color: #4d96a9;
+}
+
+.btnPurple{
+    background-color: #855fb1;
+}
+
+.btnPurple:hover{
+    background-color: #d9b8ff;
+}
+
+@media (max-width: 485px) {
+    button{
+        padding: 1rem 1rem;
+    }
+}

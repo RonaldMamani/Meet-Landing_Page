@@ -1,0 +1,53 @@
+.sectionOne{
+    text-align: center;
+    margin: 4rem auto 12rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.sectionOne p{
+    margin: 1.5rem auto 0;
+}
+
+.sectionOne h3{
+    margin: 0 auto;
+}
+
+.numberSection{
+    margin: 5rem auto 0;
+    padding: 0.8rem;
+    color: #87879d;
+    background-color: #fafafa;
+    border-radius: 50%;
+}
+
+@media (min-width: 769px) {
+    .sectionOne{
+        width: 80%;
+    }
+    .sectionOne p{
+        width: 40%;
+    }
+    .sectionOne h3{
+        width: 32%;
+    }
+}
+
+@media (max-width: 768px) {
+    .sectionOne{
+        width: 100%;
+    }
+    .sectionOne p{
+        width: 75%;
+    }
+    .sectionOne h3{
+        width: 55%;
+    }
+}
+
+@media (max-width: 485px) {
+    .sectionOne h3{
+        width: 90%;
+    }
+}
