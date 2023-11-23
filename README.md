@@ -1,8 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Meet Landing Page
 
-Currently, two official plugins are available:
+Projeto de Pagina de Meet, pagina baseada em uma pagina em  Landing Page  utilizando React com JavaScript com HTML e CSS.
+## Imagens
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Meet](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/gucflrnangdntp9p8guq.jpg)
+
+
+## Deploy
+
+O Projeto está em hospedagem na Vercel o link esta abaixo:
+
+Link: https://meet-landing-page-rho.vercel.app/
+
+## Instalação
+
+Instalação das dependencias do projeto
+
+```bash
+  npm install
+```
+
+Rodar o Codigo do Projeto
+
+```
+    npm start
+```
+    
+## Aprendizados
+
+O Projeto do Meet, e minha primeira pagina de Landing Page com React com JavaScript, o projeto foi utilizando CSS puro com componentes, o projeto me fez utilizar componentes no React com Props, foi um projeto curto mas bastante interessante para utilizar com componenentes.
+
+## Autores
+
+- [RonaldMamani](https://github.com/RonaldMamani)
+
